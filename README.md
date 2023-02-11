@@ -34,24 +34,29 @@ The following tools were used for this project:
 - NumPy
 - Pandas
 - Matplotlib
-- Data
+ 
+<a id="data"></a>
+<h2>Data</h2>
 
-The data used in this project can be found in the Buymore_sales_data.csv file.
+The data used in this project can be found in the `Buymore_sales_data.csv file`.
 
-Findings
+<a id="findings"></a>
+<h2>Findings</h2>
 
 The following findings were made from this project:
 
-The average sales and profit per market were computed.
-A stacked bar chart was plotted showing the average sales and profit per market.
-The Kumasi market brings in the most sales on average.
-Days and months were extracted from the Order Date and added to the data frame.
-The trend of profit from January to December was shown with a line plot.
-The company makes the highest sales on Thursdays.
-There is a positive correlation between sales and profit.
-A scatter plot was created to show the relationship between sales and profit.
-A grouped bar chart was plotted showing the total profit for the different product categories for each market.
-Furniture and Office Supplies perform well in all the markets.
-Conclusion
+- The average sales and profit per market were computed.
+- A stacked bar chart was plotted showing the average sales and profit per market.
+- The Kumasi market brings in the most sales on average.
+- Days and months were extracted from the Order Date and added to the data frame.
+- The trend of profit from January to December was shown with a line plot.
+- The company makes the highest sales on Thursdays.
+- There is a positive correlation between sales and profit.
+- A scatter plot was created to show the relationship between sales and profit.
+- A grouped bar chart was plotted showing the total profit for the different product categories for each market.
+- Furniture and Office Supplies perform well in all the markets.
+
+<a id"conclusion"></a>
+<h2>Conclusion</h2>
 
 From this project, it can be concluded that data-driven insights can be valuable to companies, such as Buymore, to make informed decisions.
