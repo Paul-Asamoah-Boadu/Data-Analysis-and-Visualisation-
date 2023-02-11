@@ -56,7 +56,7 @@ The following findings were made from this project:
 - A grouped bar chart was plotted showing the total profit for the different product categories for each market.
 - Furniture and Office Supplies perform well in all the markets.
 
-<a id"conclusion"></a>
+<a id="conclusion"></a>
 <h2>Conclusion</h2>
 
 From this project, it can be concluded that data-driven insights can be valuable to companies, such as Buymore, to make informed decisions.
