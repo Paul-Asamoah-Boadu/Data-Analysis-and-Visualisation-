@@ -49,7 +49,7 @@ The following tools were used for this project:
 <a id="data"></a>
 <h2>Data</h2>
 
-The data used in this project can be found in the `Buymore_sales_data.csv file`.
+The data used in this project can be found in the `Buymore_sales_data.csv` file.
 
 <a id="findings"></a>
 <h2>Findings</h2>
