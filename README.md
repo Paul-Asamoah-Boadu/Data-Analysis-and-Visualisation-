@@ -13,17 +13,14 @@ This project seeks to analyse sales data for Buymore, a fast-growing supermarket
 Buymore, like many other data-driven companies, requires insights from their data to make informed decisions. As the Data Scientist for Buymore, the following tasks need to be addressed:
 
 - Determine the average sales and profit per market.
-
 - Plot a stacked bar chart showing the average sales and profit per market.
-
 - Identify the market that brings more sales on average.
-
 - Extract the days and months from the Order Date and add them to the data frame with the name "Days" and "Months" respectively.
-Show the trend of profit from January to December with a line plot.
-Identify the day that the company makes high sales on average.
-Determine the correlation between sales and profit, what it means, and create a scatter plot to show the relationship between sales and profit.
-Plot a grouped bar chart showing the total profit for the different product categories for each market.
-Determine the product category that performs well in each market.
+- Show the trend of profit from January to December with a line plot.
+- Identify the day that the company makes high sales on average.
+- Determine the correlation between sales and profit, what it means, and create a scatter plot to show the relationship between sales and profit.
+- Plot a grouped bar chart showing the total profit for the different product categories for each market.
+- Determine the product category that performs well in each market.
 
 <h2>Approach</h2>
 
