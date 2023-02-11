@@ -2,6 +2,16 @@
 
 <h2>Table of Content</h2>
 
+<ul>
+    <li><a href="#project">Project</a></li>
+    <li><a href="#statement">Problem Statment</a></li>
+    <li><a href="#approach">Approach</a></li>
+    <li><a href="#tools">Tools</a></li>
+    <li><a href="#data">Data</a></li>
+    <li><a href="#findings">Findings</a></li>
+    <li><a href="#conclusion">Conclusion</a></li>
+</ul>
+
 <a id="project"></a>
 <h2>Project</h2>
 
@@ -22,6 +32,7 @@ Buymore, like many other data-driven companies, requires insights from their dat
 - Plot a grouped bar chart showing the total profit for the different product categories for each market.
 - Determine the product category that performs well in each market.
 
+<a id="approach"></a>
 <h2>Approach</h2>
 
 The project was approached with a combination of data manipulation and visualisation techniques.
