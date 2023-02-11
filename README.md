@@ -22,7 +22,7 @@ Determine the correlation between sales and profit, what it means, and create a 
 Plot a grouped bar chart showing the total profit for the different product categories for each market.
 Determine the product category that performs well in each market.
 
-Approach
+<h2>Approach</h2>
 
 The project was approached with a combination of data manipulation and visualisation techniques.
 
