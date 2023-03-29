@@ -70,5 +70,5 @@ The following findings were made from this project:
 <a id="conclusion"></a>
 <h2>Conclusion</h2>
 
-From this project, it can be concluded that data-driven insights can be valuable to companies, such as Buymore, to make informed decisions.
+From this project, it can be concluded that data-driven insights can be value to companies, such as Buymore, to make informed decisions.
 
