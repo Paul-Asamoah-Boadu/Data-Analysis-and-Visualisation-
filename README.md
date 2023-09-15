@@ -28,7 +28,7 @@ Buymore, like many other data-driven companies, requires insights from their dat
 - Extract the days and months from the Order Date and add them to the data frame with the name "Days" and "Months" respectively.
 - Show the trend of profit from January to December with a line plot.
 - Identify the day that the company makes high sales on average.
-- Determine the correlation between sales and profit, what it means, and create a scatter plot to show the relationship between sales and profit.
+- Determine the correlation between sales and profit, and what it means, and create a scatter plot to show the relationship between sales and profit.
 - Plot a grouped bar chart showing the total profit for the different product categories for each market.
 - Determine the product category that performs well in each market.
 
